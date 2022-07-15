@@ -4,6 +4,7 @@ feel free to peak in
 * list
 * strings
 * tuples
+* keyword
 * dictionary
  * Slices
  * Indices
@@ -12,6 +13,7 @@ feel free to peak in
  * Conditional loops
   * for loops
   * while loop
+  * Parameter Passing Techniques
  * linear search algorithm
  * Quizzes for every topic
  * Data Analysis and Exploration
